@@ -6,7 +6,7 @@
 #    and update it automatically.
 #
 #    For support and documentation, please visit:
-#    - ${wiki}
+#    - ${project.wiki}
 #
 # !-----------------------------------------------------------------------------------------------!
 #
@@ -18,10 +18,10 @@
 #    2) TO HIDE any message, set it to 'none'.
 #
 #    3) For UNICODE CHARACTERS (smileys, symbols, ..), save the file in UTF-8 encoding. See
-#       - ${wiki}/Use-Right-Encoding
+#       - ${project.wiki}/Use-Right-Encoding
 #
 #    4) JSON is supported.
-#       - For usage, see ${wiki}/JSON
+#       - For usage, see ${project.wiki}/JSON
 #
 #    5) WHITELISTS can be turned into blacklists, by putting "@blacklist" on the first line.
 #       - Doing such, filters will only apply for messages in those lists.

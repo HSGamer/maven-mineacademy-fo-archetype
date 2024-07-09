@@ -14,7 +14,7 @@
 #   2) Herhangi bir mesajı GİZLEMEK için 'none' olarak ayarlayın.
 #
 #   3) UNICODE KARAKTERLER (suratlar, semboller, ..) için dosyayı UTF-8 kodlamasında kaydedin. Bkz.
-#      - ${wiki}/Use-Right-Encoding
+#      - ${project.wiki}/Use-Right-Encoding
 #
 #   4) JSON desteklenmektedir. Kullanmak için iletinin önüne [JSON] ekleyebilirsiniz.
 #
