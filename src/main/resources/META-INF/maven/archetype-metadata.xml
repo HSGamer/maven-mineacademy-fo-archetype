@@ -8,6 +8,9 @@
         <requiredProperty key="name" />
         <requiredProperty key="mainPlugin" />
         <requiredProperty key="author" />
+        <requiredProperty key="wiki">
+            <defaultValue>https://github.com/${author}/${project.name}/wiki</defaultValue>
+        </requiredProperty>
     </requiredProperties>
 
     <fileSets>

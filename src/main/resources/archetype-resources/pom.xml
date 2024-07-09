@@ -15,6 +15,9 @@
         <!-- Change to your name or the main project author. -->
         <author>${author}</author>
 
+        <!-- Change to your wiki page. -->
+        <wiki>${wiki}</wiki>
+
         <!-- Change the Java version this plugin is built on.
 
              IMPORTANT: For Java 8, version is "1.8", for Java 11+ it is only "11" or "17".
