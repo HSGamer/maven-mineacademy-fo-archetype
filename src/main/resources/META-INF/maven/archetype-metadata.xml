@@ -7,6 +7,9 @@
     <requiredProperties>
         <requiredProperty key="name" />
         <requiredProperty key="mainPlugin" />
+        <requiredProperty key="spigotVersion">
+            <defaultValue>1.16.5-R0.1-SNAPSHOT</defaultValue>
+        </requiredProperty>
         <requiredProperty key="author" />
         <requiredProperty key="wiki">
             <defaultValue>https://github.com/${author}/${project.name}/wiki</defaultValue>
