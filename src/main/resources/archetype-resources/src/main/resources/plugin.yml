@@ -1,6 +1,6 @@
 name: ${project.name}
 version: ${project.version}
-main: ${package}.${mainPlugin}
+main: ${project.mainClass}
 author: ${project.author}
 
 api-version: 1.13
