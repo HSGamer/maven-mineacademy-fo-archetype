@@ -5,15 +5,15 @@
         xsi:schemaLocation="https://maven.apache.org/plugins/maven-archetype-plugin/archetype-descriptor/1.1.0 http://maven.apache.org/xsd/archetype-descriptor-1.1.0.xsd"
         name="Maven MineAcademy Foundation Plugin">
     <requiredProperties>
-        <requiredProperty key="name" />
-        <requiredProperty key="mainPlugin" />
+        <requiredProperty key="name"/>
+        <requiredProperty key="mainPlugin"/>
         <requiredProperty key="spigotVersion">
             <defaultValue>1.16.5-R0.1-SNAPSHOT</defaultValue>
         </requiredProperty>
         <requiredProperty key="foundationVersion">
             <defaultValue>6.9.1</defaultValue>
         </requiredProperty>
-        <requiredProperty key="author" />
+        <requiredProperty key="author"/>
         <requiredProperty key="wiki">
             <defaultValue>https://github.com/${author}/${project.name}/wiki</defaultValue>
         </requiredProperty>
