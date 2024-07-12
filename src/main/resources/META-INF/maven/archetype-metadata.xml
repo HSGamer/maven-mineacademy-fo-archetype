@@ -10,6 +10,9 @@
         <requiredProperty key="spigotVersion">
             <defaultValue>1.16.5-R0.1-SNAPSHOT</defaultValue>
         </requiredProperty>
+        <requiredProperty key="foundationVersion">
+            <defaultValue>6.9.1</defaultValue>
+        </requiredProperty>
         <requiredProperty key="author" />
         <requiredProperty key="wiki">
             <defaultValue>https://github.com/${author}/${project.name}/wiki</defaultValue>
